@@ -13,14 +13,21 @@
  <!-- About section -->
 
 ---
-✨ I'm a biologist turn programmer and data scientist with passion for building digital tools and turing data into a story. 
+✨ I'm a biologist turn programmer and data scientist with passion for building digital tools and turing data into a story. When I'm not coding, I love doing photography and asthetically looking design to exploring different ways of documenting stories.
 
-When I'm not coding, you can find me geeking about photography and asthetically looking design to exploring different ways of documenting stories.
+## Skills
+- Python
+- R programming
+- Shiny app development
+- Automation
+- Shell scripting
+- Bioinformatics ( gene expression studies, genetic variant identification )
+- Data Analysis and statistics
+- Labratory Automation ( Integration and automating methods )
+
 
 
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
-- 😄 My Pronouns: He/Him
-- 
 <!-- About section: END -->
