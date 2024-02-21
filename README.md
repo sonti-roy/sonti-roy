@@ -1,6 +1,9 @@
 <!-- Heading -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Sonti Roy</h3>
 
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="300" alt="Side image" align="right" >
+<br><br>
+
 <!-- Profile Views -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonti-roy&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
