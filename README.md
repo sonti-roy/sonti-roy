@@ -10,8 +10,6 @@
 </p>
 
 
-  [![Linkedin Badge](https://img.shields.io/badge/Sonti%20Roy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonti-roy/)](https://www.linkedin.com/in/sonti-roy-phd-8589b711a/) 
-
 
  <!-- About section -->
 
@@ -19,18 +17,25 @@
 ✨ I'm a biologist turn programmer and data scientist with passion for building digital tools and turing data into a story. When I'm not coding, I love doing photography and asthetically looking design to exploring different ways of documenting stories.
 
 ## Skills
-- Python
-- R programming
-- Shiny app development
-- Automation
-- Shell scripting
+- Programming
+- App development
+- Software Automation
 - Bioinformatics ( gene expression studies, genetic variant identification )
 - Data Analysis and statistics
 - Labratory Automation ( Integration and automating methods )
 
+## Programming Languages
 
+- ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+- ![R](https://img.shields.io/badge/-R-blue?logo=r&logoColor=white)
+- ![SQL](https://img.shields.io/badge/-SQL-blue?logo=sql&logoColor=white)
+- ![Bash](https://img.shields.io/badge/-Bash-blue?logo=gnu-bash&logoColor=white)
 
-<!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+## Contact
+
+- GitHub: [github.com](https://github.com/sonti-roy)
+- LinkedIn: [linkedin.com](www.linkedin.com/in/sonti-roy/)
+- Website: [Yet to come](https://yettocome.com)
+
 
 <!-- About section: END -->
