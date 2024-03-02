@@ -14,7 +14,7 @@
  <!-- About section -->
 
 ---
-✨ I'm a biologist turn programmer and data scientist with passion for building digital tools and turing data into a story. When I'm not coding, I love doing photography and asthetically looking design to exploring different ways of documenting stories.
+I'm a biologist turn programmer and data scientist with passion for building digital tools and turing data into a story. When I'm not coding, I love doing photography and asthetically looking design to exploring different ways of documenting stories.
 
 ## Skills
 - Programming
@@ -24,12 +24,9 @@
 - Data Analysis and statistics
 - Labratory Automation ( Integration and automating methods )
 
-## Programming Languages
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a align="left"> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="git" width="40" height="40"/> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="linux" width="60" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
-- ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
-- ![R](https://img.shields.io/badge/-R-blue?logo=r&logoColor=white)
-- ![SQL](https://img.shields.io/badge/-SQL-blue?logo=sql&logoColor=white)
-- ![Bash](https://img.shields.io/badge/-Bash-blue?logo=gnu-bash&logoColor=white)
 
 ## Contact
 
@@ -39,3 +36,4 @@
 
 
 <!-- About section: END -->
+
