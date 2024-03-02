@@ -34,7 +34,7 @@
 ## Contact
 
 - GitHub: [github.com](https://github.com/sonti-roy)
-- LinkedIn: [linkedin.com](www.linkedin.com/in/sonti-roy/)
+- LinkedIn: [linkedin.com](https://www.linkedin.com/in/sonti-roy-phd-8589b711a/)
 - Website: [Yet to come](https://yettocome.com)
 
 
