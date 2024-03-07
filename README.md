@@ -14,28 +14,24 @@
  <!-- About section -->
 
 ---
-I'm a biologist turn programmer and data scientist with passion for building digital tools and turing data into a story. When I'm not coding, I love doing photography and asthetically looking design to exploring different ways of documenting stories.
+I'm a Molecular biologist who love to do programming and data science with passion for building digital tools and turing data into a story. When I'm not coding, I love doing photography and asthetically looking design to exploring different ways of documenting stories.
 
 ## Skills
-- Programming
-- App development
-- Software Automation
 - Bioinformatics ( gene expression studies, genetic variant identification )
-- Data Analysis and statistics
 - Labratory Automation ( Integration and automating methods )
+- Biology domain expertise
+- Computer Programming 
+- Digital tool development
+- Data Analysis and statistics
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a align="left"> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="git" width="40" height="40"/> <a align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="linux" width="60" height="40"/> </a> <a align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
 
-## Contact
 
-- GitHub: [github.com](https://github.com/sonti-roy)
-- LinkedIn: [linkedin.com](https://www.linkedin.com/in/sonti-roy-phd-8589b711a/)
-- Website: [Yet to come](https://yettocome.com)
 
-<h3>Contact</h3>
-<p><a href="https://github.com/sonti-roy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/X-black" width="40" height="40" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<h3 align="left">Contacts</h3>
+<p><a href="https://github.com/sonti-roy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/sonti-roy-phd-8589b711a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://x.com/Sci_Autodidact?t=3GbCekLLtHVNeY-B2jfWLw&s=09" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-black?style=flat-square&logo=X" width="90" height="28" /></a>
 </p>
 
 
